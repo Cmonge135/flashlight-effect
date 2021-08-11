@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
 body,
 html {
   padding: 0;
@@ -40,5 +42,9 @@ body * {
   position: absolute;
   top: 40%;
   left: 45%;
-  font-family: 'Annie Use Your Telescope';
+  font-family: 'Jolly Lodger';
+}
+
+h1 {
+  font-size: 100px;
 }
